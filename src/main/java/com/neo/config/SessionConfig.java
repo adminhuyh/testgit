@@ -9,3 +9,4 @@ public class SessionConfig {
 	public static final String str="";
 	public static final String str1="";
 }
+
