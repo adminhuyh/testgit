@@ -13,6 +13,8 @@ public class User implements Serializable {
 	private String email;
 	private String nickname;
 	private String regTime;
+	
+	private Long idfd;
 
 	public User() {
 		super();
