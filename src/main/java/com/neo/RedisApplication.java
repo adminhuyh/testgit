@@ -13,5 +13,7 @@ public class RedisApplication {
 		SpringApplication.run(RedisApplication.class, args);
 		
 		SpringApplication.run(RedisApplication.class, args);
+		SpringApplication.run(RedisApplication.class, args);
+		SpringApplication.run(RedisApplication.class, args);
 	}
 }
