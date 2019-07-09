@@ -21,6 +21,7 @@ public class User implements Serializable {private int age;
         private String kyfdfd;	 
 	
 	private Long idfd;
+	private String year;
 
 	public User() {
 		super();
