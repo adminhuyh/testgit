@@ -14,6 +14,7 @@ public class User implements Serializable {
 	private String nickname;
 	private String regTime;
 	private String regTimess;
+	private String regTimessss;
 	
 	private Long idfd;
 
