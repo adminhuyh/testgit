@@ -4,7 +4,7 @@ import java.io.Serializable;
 
 
 
-public class User implements Serializable {
+public class User implements Serializable {private int age;
 
 	private static final long serialVersionUID = 1L;
 	private Long id;private Long ids;
