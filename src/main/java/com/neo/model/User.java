@@ -19,9 +19,12 @@ public class User implements Serializable {private int age;
 
 	private String kyessdf;
         private String kyfdfd;	 
+					   
 	
 	private Long idfd;
-	private String year;
+
+	private String sss;
+
 
 	public User() {
 		super();
