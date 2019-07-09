@@ -16,6 +16,7 @@ public class User implements Serializable {private int age;
 	private String regTimess;
 	private String regTimessss;
 	private String aaa;
+	private String kyessdf;			
 	
 	private Long idfd;
 
