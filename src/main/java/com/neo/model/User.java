@@ -24,6 +24,8 @@ public class User implements Serializable {private int age;
 	private Long idfd;
 
 	private String sss;
+					   
+					   privates String address;
 
 
 	public User() {
