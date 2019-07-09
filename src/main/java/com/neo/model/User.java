@@ -13,6 +13,7 @@ public class User implements Serializable {
 	private String email;
 	private String nickname;
 	private String regTime;
+	private String regTimess;
 	
 	private Long idfd;
 
