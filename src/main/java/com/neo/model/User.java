@@ -1,6 +1,7 @@
 package com.neo.model;
 
 import java.io.Serializable;
+import java.util.List;
 
 
 
@@ -41,6 +42,12 @@ public class User implements Serializable {private int age;
 		this.regTime = regTime;
 	}
 
+	
+	public List getList(){
+		
+		return null;
+	}
+	
 	public Long getId() {
 		return id;
 	}
